@@ -1,4 +1,4 @@
-# -SathanaBalakrishnan
+# SathanaBalakrishnan
 # About Me
 
 Hello! I'm Sathana B, a Computer Science and Engineering student at Saveetha Engineering College, Tamil Nadu, India.
